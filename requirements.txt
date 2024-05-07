@@ -1,0 +1,12 @@
+urllib3
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+optuna
+typing
+tqdm
+xgboost
+from tqdm import tqdm
